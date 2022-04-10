@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Report" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Report/images" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RunManager" selected="Python.main">
@@ -114,7 +114,8 @@
       <workItem from="1646170798572" duration="597000" />
       <workItem from="1646239890387" duration="14000" />
       <workItem from="1646240280801" duration="199000" />
-      <workItem from="1649556023861" duration="15906000" />
+      <workItem from="1649556023861" duration="19566000" />
+      <workItem from="1649589774949" duration="16036000" />
     </task>
     <servers />
   </component>
